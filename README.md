@@ -10,9 +10,9 @@ Create a Python Virtual Enviroment.
 Access it running the "activate" script in the Bin folder.
 
 Use PIP to install the requirements
-
+```
 pip install --r requirements.txt
-
+```
 To run the Code:
 
 python3 main.py
