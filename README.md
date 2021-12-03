@@ -1,7 +1,7 @@
 # ANaoRhythm
 Nao Planning Challange - 2021
 
-Group Members:
+** Group Members: **
 - Stefano Ciapponi
 
 # Setup (Unix Only):
