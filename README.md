@@ -1,5 +1,7 @@
 # ANaoRhythm
-Nao Planning Challange - 2021
+**Nao Planning Challange - 2021**
+The focus of the project is planning a Dance Coreography given time and move constraints.
+I tried implementing a Search Algorithm subsampling an infinite tree of Feasible Solutions, trying to optimize the number of Beat matching moves.
 
 **Group Members:**
 - Stefano Ciapponi
