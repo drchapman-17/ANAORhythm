@@ -4,7 +4,7 @@ Nao Planning Challange - 2021
 Group Members:
 - Stefano Ciapponi
 
-#Setup (Unix Only):
+# Setup (Unix Only):
 
 - Clone The repository:
 ```
@@ -27,7 +27,7 @@ source [name]/bin/activate
 ```
 pip install -r requirements.txt
 ```
-#To run the Code:
+# To run the Code:
 - Open Coreographe->Edit->Preferences and Select the NAO H25 (V40) Robot Model.
 - Run The Code:
 ```
