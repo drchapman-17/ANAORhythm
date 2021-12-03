@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 python3 main.py
 ```
-- Insert NaoRobot's IP and Port.
+- Write NaoRobot's IP and Port.
 
 - Enjoy the coreography!
 
