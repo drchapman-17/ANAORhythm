@@ -17,7 +17,7 @@ I tried implementing a Search Algorithm subsampling an infinite tree of Feasible
 git clone https://github.com/drchapman-17/anaorhythm
 ```
 
-- Run the commands.sh file to install Python3 and Sound eXchange (Software used to play the audio file).
+- Run the commands.sh file to install **Python3** and **Sound eXchange** (Software used to play the audio file).
 ```
 ./commands.sh
 ```
@@ -46,5 +46,6 @@ python3 main.py
 # Resources:
 
 - [Daft Punk - Around The World](https://www.youtube.com/watch?v=dwDns8x3Jb4)
+- [Sound eXchange](http://sox.sourceforge.net/)
 - [Treelib](https://treelib.readthedocs.io/en/latest/)
 - [DuoNao Repo (For The NaoMoves Folder)](https://github.com/ProjectsAI/NAO_Planning_Challenge/tree/main/2020-2021/duonao)
