@@ -12,7 +12,6 @@ def playSong():
 def dance(moves, robot_ip, robot_port):
     print("Dance!")
     for move in moves[0]:
-        print(f"Executing: {move}... ", end="", flush=True)
         python2_command = f"python2 ./NaoMoves/{move}.py  {robot_ip} {robot_port}"
         process = subprocess.run(python2_command.split(), stdout=subprocess.PIPE)
         print("Move: {}".format(move), flush=True)
