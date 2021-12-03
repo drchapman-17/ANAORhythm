@@ -34,7 +34,7 @@ source [name]/bin/activate
 pip install -r requirements.txt
 ```
 # To run the Code:
-- Open Coreographe->Edit->Preferences and Select the NAO H25 (V40) Robot Model.
+- Open Coreographe->Edit->Preferences and Select the **NAO H25 (V40) Robot Model**.
 - Run The Code:
 ```
 python3 main.py
