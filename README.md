@@ -17,7 +17,7 @@ I tried implementing a Search Algorithm subsampling an infinite tree of Feasible
 git clone https://github.com/drchapman-17/anaorhythm
 ```
 
-- Run the commands.sh file to install Python3 and Sound Exchange (Software used to play the audio file).
+- Run the commands.sh file to install Python3 and Sound eXchange (Software used to play the audio file).
 ```
 ./commands.sh
 ```
