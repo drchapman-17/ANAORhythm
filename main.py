@@ -18,8 +18,8 @@ def dance(moves, robot_ip, robot_port):
         print("Move: {}".format(move), flush=True)
 
 def main():
-    robot_ip = input("Insert Robot IP:")
-    robot_port = input("Insert Robot Port:")
+    robot_ip = input("Insert Robot IP: ")
+    robot_port = input("Insert Robot Port: ")
     moves = coreography.search_coreography()
     process1 = multiprocessing.Process(target=playSong, args=())
     process2 = multiprocessing.Process(target=dance, args=((moves,), robot_ip, robot_port))
