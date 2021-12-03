@@ -1,7 +1,7 @@
 # ANaoRhythm
 **Nao Planning Challange - 2021**
 
-This Progect focuses on planning a Dance Coreography given time and move constraints.
+This Progect focuses on planning a Dance Coreography given time and move constraints.<br>
 I tried implementing a Search Algorithm subsampling an infinite tree of Feasible Solutions, trying to optimize the number of Beat matching moves.
 
 **Group Members:**
