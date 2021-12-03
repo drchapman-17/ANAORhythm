@@ -39,3 +39,8 @@ python3 main.py
 - Insert NaoRobot's IP and Port.
 
 - Enjoy the coreography!
+
+# Resources:
+
+- [Daft Punk - Around The World](https://www.youtube.com/watch?v=dwDns8x3Jb4)
+- [Treelib](https://treelib.readthedocs.io/en/latest/)
